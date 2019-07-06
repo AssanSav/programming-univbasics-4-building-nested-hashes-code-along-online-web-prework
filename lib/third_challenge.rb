@@ -27,6 +27,7 @@ def third_challenge
         },
       :heroine => {
        :name of "Juliet"
+       
         },
       :heroine_friends => []
    }
